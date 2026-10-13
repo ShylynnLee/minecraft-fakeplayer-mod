@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.fakeplayer.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "mixins": [
+    "NetworkRegistryMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
